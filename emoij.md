@@ -1,5 +1,3 @@
-EMOJI CHEAT SHEET
-
 ## People
 
 :bowtie:
