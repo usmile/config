@@ -1,3 +1,5 @@
+From [EMOIJ][1]
+
 ## People
 
 :bowtie:
@@ -888,3 +890,5 @@
 :small_red_triangle:
 :small_red_triangle_down:
 :shipit:
+
+[1]: http://www.emoji-cheat-sheet.com/
