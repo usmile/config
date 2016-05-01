@@ -7,3 +7,5 @@ config
 
 ## windows配置文件
 ### win.emacs
+
+:book:
