@@ -1,13 +1,6 @@
 EMOJI CHEAT SHEET
 
-
-AdRoll wins you more business by returning visitors to your site.
-ads via Carbon
-Emoji emoticons listed on this page are supported on Campfire, GitHub, Basecamp, Redbooth, Trac, Flowdock, Sprint.ly, Kandan, Textbox.io, Kippt, Redmine, JabbR, Trello, Hall, Qiita, Zendesk, Ruby China, Grove, Idobata, NodeBB Forums, Slack, Streamup, OrganisedMinds, Hackpad, Cryptbin, Kato, Reportedly, Cheerful Ghost, IRCCloud, Dashcube, MyVideoGameList, Subrosa, Sococo, Quip, And Bang, Bonusly, Discourse, Ello, Twemoji Awesome, Got Chosen, Flow, ReadMe.io, esa, DBook, Groups.io, TeamworkChat, Damn Bugs, Let's Chat, Buildkite, ChatGrape, Dokuwiki, Usersnap, Discord, Status Hero, Morfy, Bitbucket, Gitter, Yellow, YouTube and Mattermost
-However some of the emoji codes are not super easy to remember, so here is a little cheat sheet.
-
-✈  Got a modern browser or Flash enabled? Click the emoji code and it will be copied to your clipboard.
-
+## People
 
 :bowtie:
 :smile:
@@ -202,7 +195,8 @@ However some of the emoji codes are not super easy to remember, so here is a lit
 :rage4:
 :suspect:
 :trollface:
-Nature
+
+## Nature
 
 :sunny:
 :umbrella:
@@ -319,7 +313,8 @@ Nature
 :partly_sunny:
 :octocat:
 :squirrel:
-Objects
+
+## Objects
 
 :bamboo:
 :gift_heart:
@@ -581,7 +576,8 @@ Objects
 :eggplant:
 :tomato:
 :corn:
-Places
+
+## Places
 
 :house:
 :house_with_garden:
@@ -689,7 +685,8 @@ Places
 :gb:
 :uk:
 :de:
-Symbols
+
+## Symbols
 
 :one:
 :two:
@@ -893,12 +890,3 @@ Symbols
 :small_red_triangle:
 :small_red_triangle_down:
 :shipit:
-Campfire also supports a few sounds
-
-► /play secret► /play trombone► /play crickets► /play rimshot► /play vuvuzela► /play tmyk► /play live► /play drama► /play yeah► /play greatjob► /play pushit► /play nyan► /play tada► /play ohmy► /play bueller► /play ohyeah► /play 56k► /play dangerzone► /play horn► /play horror► /play loggins► /play yodel► /play sax► /play noooo► /play heygirl► /play inconceivable► /play deeper► /play whoomp► /play clowntown► /play what► /play bezos► /play trololo► /play makeitso► /play sexyback► /play bell► /play danielsan► /play greyjoy► /play story► /play dadgummit► /play rollout► /play cottoneyejoe► /play rumble► /play guarantee► /play unix► /play letitgo► /play wups► /play flawless► /play butts
-This page was created by Arvid Andersson / @arvid_a at Oktavilla. Source code is available on GitHub.
-
-❤ View all the super awesome people that have contributed to this page on the GitHub contributors page.
-✔ Emoji-cheat-sheet.com is not affiliated with the services listed on this page in any way.
-♺ Built using bits from ZeroClipboard.
-
