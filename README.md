@@ -4,8 +4,9 @@ config
 ## Linux配置文件
 ### .vimrc
 
-
 ## windows配置文件
 ### win.emacs
 
 :book:
+
+![SVG](./fig.svn)
