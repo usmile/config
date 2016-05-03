@@ -9,4 +9,4 @@ config
 
 :book:
 
-![SVG](./fig.svn)
+![SVG](./fig.svg)
